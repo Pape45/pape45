@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science enthusiast with a strong background in mathematics and computer science. I have acquired skills in programming, data analysis, computer system design, and complex problem solving. I have worked on software development, data modeling and performance analysis projects. In addition to my technical skills, I have developed an aptitude for teamwork, communication, and project management, which allows me to work effectively with colleagues and clients. I am excited to continue my studies in computer engineering and contribute to the advancement of this exciting discipline<br><br>
+I am a computer science enthusiast with a strong background in mathematics and computer science. I am excited to continue my studies in computer engineering and contribute to the advancement of this exciting discipline<br><br>
 
 
 # 💻 Tech Stack:
